@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap');
+
+body {
+    background: white url('images/footprint.png') repeat;
+    background-position: center;
+}
+
+#li1 a {
+    color: #000000;
+    text-decoration: none;
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 30px;
+}
+
+#li1 {
+    font-size: 30px;
+    list-style-type: upper-roman;
+}
+
+#ul1 {
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+#h1, #h2 {
+    font-family: 'Do Hyeon', sans-serif;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+#p1 {
+    font-family: 'Do Hyeon', sans-serif;
+    margin-left: 70px;
+}
+
+#ul2 {
+    font-family: 'Do Hyeon', sans-serif;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+#f11 {
+    font-size: 25px;
+    font-family: 'Do Hyeon', sans-serif;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+#li2 {
+    font-size: 30px;
+    list-style-type: upper-roman;
+}
+
+#a1 {
+    font-size: 30px;
+    color: black;
+    margin-left: 120px;
+}
+
+#div1, #div2 {
+    transform: translate(30%, 40%);
+}
